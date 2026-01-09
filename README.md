@@ -59,3 +59,11 @@
 - ⭐ Explore my repositories below
 
 > *“Build skills. Write clean code. Stay consistent.”*
+> ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neeleshjain28/neeleshjain28/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
