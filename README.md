@@ -1,7 +1,10 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Neelesh+Jain;Software+Engineer;Python+Developer;Problem+Solver;Building+Clean+and+Scalable+Code" />
-</h1>
+<!-- Animated Typing Header (GitHub Safe) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Neelesh+Jain;Software+Engineer;Python+Developer;Problem+Solver"
+    alt="Typing SVG"
+  />
+</p>
 
 <h3 align="center">Engineer | Builder | Learner</h3>
 
@@ -9,6 +12,7 @@
   🚀 Learning by building real-world projects <br/>
   📈 Consistency &gt; Motivation
 </p>
+
 
 ---
 
